@@ -1,4 +1,7 @@
 # Иван Скобов
+
+![Фото](https://github.com/IvanSkobov/your-repo-name/raw/master/assets/your-photo.jpg)
+
 ## Python Developer (Junior)  
 📍 Самара, Готов к удалёнке  
 📧 5secondvano@gmail.com | 📱 +7 917 155 57 70; +7 705 142 95 55 | 💼 [GitHub](https://github.com/IvanSkobov) | 🔗 [Telegram](https://t.me/i5second)
