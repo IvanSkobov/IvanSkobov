@@ -1,6 +1,6 @@
 # Иван Скобов
 
-![Фото](6KwZFf3Qiuc.jpg)
+![Фото](6KwZFf3Qiuc.jpg width="150" height="150")
 
 ## Python Developer (Junior)  
 📍 Самара, Готов к удалёнке  
