@@ -1,6 +1,6 @@
 # Иван Скобов
 
-![Фото](https://github.com/IvanSkobov/your-repo-name/raw/master/assets/your-photo.jpg)
+![Фото](6KwZFf3Qiuc.jpg)
 
 ## Python Developer (Junior)  
 📍 Самара, Готов к удалёнке  
