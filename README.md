@@ -27,28 +27,57 @@
 
 ### Опыт / Проекты:
 
-**Проект: FINCONTROL Сервис учёта личных финансов с аналитикой и Telegram-ботом**  
+**Проект: FINCONTROL Сервис учёта личных финансов с аналитикой и Telegram-ботом**  https://github.com/IvanSkobov/Fincontrol
 — Поддерживаются доходы/расходы, категории и бюджеты, аналитика с графиками, экспорт, уведомления. 
-— Добавление через веб-интерфейс и Telegram‑бот
+
+— Добавление через веб-интерфейс и Telegram‑бот.
+
 — веб (Django) + Telegram‑бот (aiogram).
 
-**Проект: Приложения для расчёта зарплаты**  
+**Проект: Приложения для расчёта зарплаты**  https://github.com/IvanSkobov/Work_Calc_time
+
 — Использовал JavaScript, CSS, HTML, Batchfile
+
 — Поддержка команд / inline-кнопок  
+
 — Хранение и статистика расчетов
+
 — Экспорт в Excell
 
-**Проект: Веб-сайт на Flask с базой данных**  
+
+**Проект: Веб-сайт на Flask с базой данных**  https://github.com/IvanSkobov/WebDG_Project
+
 — Категории и карточки ссылок  
+
 — Добавление/редактирование через веб-интерфейс  
+
 — SQLite, Bootstrap, FullCalendar
 
-**Проект: 2D-игра (Pygame)**  
+
+**Проект: 2D-игра (Pygame)**   https://github.com/IvanSkobov/2D-platform
+
 — Реализованы уровни, коллизии, победа/поражение  
+
 — Чистая архитектура (player.py, level.py, game.py, main.py)
 
-**Проект: Парсер вакансий** 
+
+**Проект: Парсер вакансий**  https://github.com/IvanSkobov/job-parser-system
+
 — Requests, BeautifulSoup, SQLite, CSV-экспорт
+
+
+**Проект: Телеграм-бот для поиска справочной информации по игре Lineage-2**  https://github.com/IvanSkobov/telegram_ai_bot
+
+— Python 3.9+
+
+— python-telegram-bot 20.7
+
+— SQLite для хранения данных
+
+— Кэширование результатов поиска
+
+— Логирование в файл
+
 
 
 
